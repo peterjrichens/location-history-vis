@@ -2,7 +2,7 @@
 
 A simple flask app to visualise your Google location history.
 
-![](demo.webm)
+![](demo.gif)
 
 # Dependencies
 
@@ -17,6 +17,6 @@ You need ```Python``` 2.7.x ```Python``` libraries: ```Pandas```, ```Flask```, `
 5. From the root folder, run ```python app.py```
 
 # Inspired by
-[kaggle-talkingdata-visualization](https://github.com/adilmoujahid/kaggle-talkingdata-visualization)
-[How to map your Google location history with R](https://shiring.github.io/maps/2016/12/30/Standortverlauf_post?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_113)
+* [kaggle-talkingdata-visualization](https://github.com/adilmoujahid/kaggle-talkingdata-visualization)
+* [How to map your Google location history with R](https://shiring.github.io/maps/2016/12/30/Standortverlauf_post?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_113)
 
